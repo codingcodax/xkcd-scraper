@@ -11,5 +11,8 @@
     "xkcd"
   ],
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^10.1.0"
+  }
 }
